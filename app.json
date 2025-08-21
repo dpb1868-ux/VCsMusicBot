@@ -1,5 +1,5 @@
 {
-  "name": "VCsMusicBot",
+  "name": "Jass_x_musicBot",
   "logo": "https://telegra.ph/file/5a24274c6a6455f9a8d8f.png",
   "description": "Open-Source bot to play songs in your Telegram's Group Voice Chat. Powered by PyTgCalls.",
   "keywords": ["music", "voicechat", "telegram"],
@@ -7,24 +7,24 @@
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string",
+      "description": "BQF4avIACXDcMg2bOjdCQ4yV7pl9LgRCVWlodty2hTkXmyUHh4VPOKVhALzbA0p96h5KLeOF2L0q5hLP4HWSIGuxSGkWIguBqBpUchg_i-X558YQM7CfoPq36akovdcnHBSKTaH-0QeT_X6ivpFk3edX2vFU0AqM6P0S_6qDXbGIHxZFppSkm-MrdzmhgTVkdY7F44MUgSDTcqyRZ3MzA0gLt8ApYBnRVy2AXw6dCuvesp9ZWZwEG9Au3RADx-VJTy9k3LnStTB-vOq58Roy3kXxLv9Z_N7xhXC4dw2G2AbrSqoEskygV4QXzwyS1BrZNYVY4utrv5-XAu4HrMbCnN8j1jR6wwAAAAHEyJlWAA",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "A bot token from @BotFather",
+      "description": "8319437421:AAEp20oGA4kLOPySvWtrtPeWqSqyBypgJ_Q",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "Your bot's username without @",
+      "description": "Jass_x1513_bot",
       "required": true
     },
     "BOT_NAME": {
-      "description": "Your MusicPlayer Bot Name.",
+      "description": "jass_x_msuic",
       "required": false,
       "value": ""
     },
     "SUPPORT_GROUP": {
-      "description": "Your MusicPlayer support group without @ [Leave this if you don't have one]",
+      "description": "https://t.me/dill_ki_batain.",
       "required": false,
       "value": "tgVCSets"
     },
@@ -34,13 +34,13 @@
       "value": "VCsMusicBot"
     },
     "ASSISTANT_NAME": {
-      "description": "Your MusicPlayer's assistant Username without @.",
+      "description": "https://t.me/jass_1503.",
       "required": true
     },
     "ARQ_API_KEY": {
       "description": "Get from @ARQRobot.",
       "required": false,
-      "value": "GUGFNB-XPUZDX-XGCKTJ-UZXHBZ-ARQ"
+      "value": "WCQIYX-QJSUHN-VQDKSS-FIKXMD-ARQ"
     },    
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
@@ -53,7 +53,7 @@
       "value": "ZauteKm"
     },    
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps",
+      "description": "24668914",
       "required": true
     },
     "PMPERMIT": {
@@ -62,15 +62,15 @@
       "value": "ENABLE"
     },    
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps",
+      "description": "8a0dcd9d1b8639b6a51cd596c96e4b9c",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "description": "7596448086",
       "required": true
     },
     "DURATION_LIMIT": {
-      "description": "Max audio duration limit for downloads (minutes).",
+      "description": "10",
       "required": true,
       "value": "10"
     }
