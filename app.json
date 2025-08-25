@@ -7,19 +7,19 @@
   "stack": "container",
   "env": {
     "SESSION_NAME": {
-      "description": "Pyrogram session string",
+      "description": "BQF4avIACXDcMg2bOjdCQ4yV7pl9LgRCVWlodty2hTkXmyUHh4VPOKVhALzbA0p96h5KLeOF2L0q5hLP4HWSIGuxSGkWIguBqBpUchg_i-X558YQM7CfoPq36akovdcnHBSKTaH-0QeT_X6ivpFk3edX2vFU0AqM6P0S_6qDXbGIHxZFppSkm-MrdzmhgTVkdY7F44MUgSDTcqyRZ3MzA0gLt8ApYBnRVy2AXw6dCuvesp9ZWZwEG9Au3RADx-VJTy9k3LnStTB-vOq58Roy3kXxLv9Z_N7xhXC4dw2G2AbrSqoEskygV4QXzwyS1BrZNYVY4utrv5-XAu4HrMbCnN8j1jR6wwAAAAHEyJlWAA",
       "required": true
     },
     "BOT_TOKEN": {
-      "description": "A bot token from @BotFather",
+      "description": "8319437421:AAEp20oGA4kLOPySvWtrtPeWqSqyBypgJ_Q",
       "required": true
     },
     "BOT_USERNAME": {
-      "description": "Your bot's username without @",
+      "description": "Jass_x1513_bot",
       "required": true
     },
     "BOT_NAME": {
-      "description": "Your MusicPlayer Bot Name.",
+      "description": "jass_x_music",
       "required": false,
       "value": ""
     },
@@ -34,18 +34,18 @@
       "value": "VCsMusicBot"
     },
     "ASSISTANT_NAME": {
-      "description": "Your MusicPlayer's assistant Username without @.",
+      "description": "alone_x_d",
       "required": true
     },
     "ARQ_API_KEY": {
-      "description": "Get from @ARQRobot.",
+      "description": "WCQIYX-QJSUHN-VQDKSS-FIKXMD-ARQ",
       "required": false,
       "value": "GUGFNB-XPUZDX-XGCKTJ-UZXHBZ-ARQ"
     },    
     "BG_IMAGE": {
       "description": "BG image of bot (Use transparent one) [IGNORE].",
       "required": false,
-      "value": "https://telegra.ph/file/cf19dda907391656338eb.png"
+      "value": "https://graph.org/file/5aed635966088fcf66677-6bf1e254d5b9f3f6e2.jpg"
     },     
     "UPDATES_CHANNEL": {
       "description": "Updates Channel without @ [Leave this if you don't have one].",
@@ -53,7 +53,7 @@
       "value": "ZauteKm"
     },    
     "API_ID": {
-      "description": "App ID from my.telegram.org/apps",
+      "description": "24668914",
       "required": true
     },
     "PMPERMIT": {
@@ -62,15 +62,15 @@
       "value": "ENABLE"
     },    
     "API_HASH": {
-      "description": "App hash from my.telegram.org/apps",
+      "description": "8a0dcd9d1b8639b6a51cd596c96e4b9c",
       "required": true
     },
     "SUDO_USERS": {
-      "description": "List of user IDs counted as admin everywhere (separated by space).",
+      "description": "7596448086",
       "required": true
     },
     "DURATION_LIMIT": {
-      "description": "Max audio duration limit for downloads (minutes).",
+      "description": "10",
       "required": true,
       "value": "10"
     }
